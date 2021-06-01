@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeekendChat</string>
+    <string name="title_activity_verification">VerificationActivity</string>
+</resources>

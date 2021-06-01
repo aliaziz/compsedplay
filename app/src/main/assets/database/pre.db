@@ -1,0 +1,2 @@
+INSERT into ChatHistory (chatId, message, from, to, isReceived,  imageUrl, link)
+VALUES (1L, "Hello welcome", 11, 22, false, null, null)
